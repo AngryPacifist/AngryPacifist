@@ -89,7 +89,7 @@ I turn complex ideas into **clear stories**, build communities where people feel
         <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
-      <a href="https://t.me/solvent_rent_bot">🤖 Telegram Bot</a> · <a href="https://github.com/AngryPacifist/solvent">📂 Repo</a>
+      <a href="https://solvent-kora.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/solvent">📂 Repo</a>
     </td>
     <td width="50%">
       <h3>📊 Xanscope</h3>
