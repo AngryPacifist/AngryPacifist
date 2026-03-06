@@ -18,7 +18,7 @@
 
 ---
 
-Building [Hot Take](https://hottake.markets) — prediction markets on Solana. Previously ghostwrote for **@solana** on X, led SuperteamNG's Writers' Guild, and grew a brand's audience by 380%. I write about things I find interesting on [Substack](https://angrypacifist.substack.com).
+Building [Hot Take](https://hottake.markets) — prediction markets on Solana. I write about things I find interesting on [Substack](https://angrypacifist.substack.com).
 
 ---
 
@@ -39,7 +39,7 @@ Building [Hot Take](https://hottake.markets) — prediction markets on Solana. P
       <a href="https://hottake.markets">🌐 hottake.markets</a> · <a href="https://x.com/hottake_app">𝕏 @hottake_app</a>
     </td>
     <td width="50%">
-      <h3>🛡️ Solana Security Patterns</h3>
+      <h3>Solana Security Patterns</h3>
       <p><strong>10 Sealevel attack patterns — Anchor vs Pinocchio</strong></p>
       <p>An interactive educational reference comparing security patterns across two Solana frameworks. 43+ exploit simulations, 100% logical verification.</p>
       <p>
@@ -52,7 +52,7 @@ Building [Hot Take](https://hottake.markets) — prediction markets on Solana. P
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚙️ Solvent</h3>
+      <h3>Solvent</h3>
       <p><strong>Automated rent-reclaim bot for Solana operators</strong></p>
       <p>A comprehensive monitoring suite with CLI, Dashboard, and Telegram bot interfaces for reclaiming rent from closeable accounts.</p>
       <p>
@@ -63,7 +63,7 @@ Building [Hot Take](https://hottake.markets) — prediction markets on Solana. P
       <a href="https://solvent-kora.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/solvent">📂 Repo</a>
     </td>
     <td width="50%">
-      <h3>📊 Xanscope</h3>
+      <h3>Xanscope</h3>
       <p><strong>Trading analytics platform</strong></p>
       <p>Personalized trading dashboard with journal features, trade history reconstruction, and performance analytics.</p>
       <p>
