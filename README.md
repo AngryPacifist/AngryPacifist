@@ -7,6 +7,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=Community+Builder;Content+Strategist;Solana+Builder" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+### About
+
+They call me the **machine** — I try things, relentlessly. If it exists, I'll learn it. If it doesn't, I'll build it.
+
+Right now I'm tinkering with AI agents, shipping Solana tooling, and building [Hot Take](https://hottake.markets) — my prediction market startup. Before that I was writing for protocols, leading communities, and figuring out which rabbit hole to fall into next.
+
+I play basketball, I game, and I have a weakness for cats. Not necessarily in that order.
+
 <p align="center">
   <a href="https://x.com/angry__pacifist"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/mujahidshuaib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,18 +25,6 @@
   <a href="https://t.me/angrypacifist"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://earn.superteam.fun/t/angrypacifist"><img src="https://img.shields.io/badge/Superteam_Earn-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Superteam Earn" /></a>
 </p>
-
----
-
-### About
-
-They call me the machine — I try things, relentlessly. My motto is *"I can do all things"* and I take that literally. If it exists, I'll learn it. If it doesn't, I'll build it.
-
-Right now I'm tinkering with AI agents, shipping Solana tooling, and building [Hot Take](https://hottake.markets) — my prediction market startup. Before that I was writing for protocols, leading communities, and figuring out how to explain Futarchy to normal people.
-
-I play basketball, I game, and I have a weakness for cats. Not necessarily in that order.
-
-**Solana Collective** · **SuperteamNG**
 
 ---
 
