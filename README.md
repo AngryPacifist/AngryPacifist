@@ -8,14 +8,6 @@
   </a>
 </p>
 
----
-
-### 🧭 About
-
-I learned my most valuable lessons on the basketball court — discipline from practice, strategy to win, and the chemistry that turns a group into a team. I bring all of that to the digital world.
-
-I turn complex ideas into **clear stories**, build communities where people feel they **belong**, and ship code that moves real value on-chain.
-
 <p align="center">
   <a href="https://x.com/angry__pacifist"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/mujahidshuaib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,32 +18,11 @@ I turn complex ideas into **clear stories**, build communities where people feel
 
 ---
 
-### ⚡ What I Build
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>⛓️ On-chain & Security</strong><br/>
-      <sub>Smart contracts, security audits, Sealevel attack patterns</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>🌐 Full-Stack Web3</strong><br/>
-      <sub>Prediction markets, trading platforms, dApps</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>🤖 Infrastructure</strong><br/>
-      <sub>Bots, monitoring, rent reclamation, automation</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>✍️ Research & Writing</strong><br/>
-      <sub>Deep dives, technical explainers, ecosystem analysis</sub>
-    </td>
-  </tr>
-</table>
+Building [Hot Take](https://hottake.markets) — prediction markets on Solana. Previously ghostwrote for **@solana** on X, led SuperteamNG's Writers' Guild, and grew a brand's audience by 380%. I write about things I find interesting on [Substack](https://angrypacifist.substack.com).
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -106,7 +77,7 @@ I turn complex ideas into **clear stories**, build communities where people feel
 
 ---
 
-### ✍️ Published Writing
+### Published Writing
 
 | Article | Topic |
 |---------|-------|
@@ -117,7 +88,7 @@ I turn complex ideas into **clear stories**, build communities where people feel
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
@@ -135,7 +106,7 @@ I turn complex ideas into **clear stories**, build communities where people feel
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AngryPacifist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Stats" height="180" />
@@ -144,13 +115,13 @@ I turn complex ideas into **clear stories**, build communities where people feel
 
 ---
 
-### 📈 Activity
+### Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngryPacifist&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9)](https://github.com/AngryPacifist)
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AngryPacifist/AngryPacifist/output/github-snake-dark.svg" alt="Snake animation" />
