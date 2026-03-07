@@ -1,12 +1,12 @@
-<svg width="1500" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.15"/>
       <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect width="1500" height="200" fill="#0D1117"/>
-  <rect width="1500" height="200" fill="url(#glow)"/>
-  <text x="750" y="105" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="bold" fill="#ffffff" letter-spacing="12">OUTIS</text>
-  <text x="750" y="145" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="18" fill="#8b949e" letter-spacing="4">@AngryPacifist</text>
+  <rect width="900" height="200" fill="#0D1117"/>
+  <rect width="900" height="200" fill="url(#glow)"/>
+  <text x="450" y="105" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="bold" fill="#ffffff" letter-spacing="12">OUTIS</text>
+  <text x="450" y="145" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="18" fill="#8b949e" letter-spacing="4">@AngryPacifist</text>
 </svg>
