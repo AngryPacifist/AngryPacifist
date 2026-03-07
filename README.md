@@ -65,6 +65,7 @@ I play basketball, I game, and I have a weakness for cats. Not necessarily in th
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       </p>
       <a href="https://solvent-kora.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/solvent">📂 Repo</a>
     </td>
@@ -74,7 +75,9 @@ I play basketball, I game, and I have a weakness for cats. Not necessarily in th
       <p>A premium dashboard for monitoring and managing Xandeum storage provider nodes — real-time network health, interactive 3D globe, leaderboard, and operator tools.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox&logoColor=white" />
       </p>
       <a href="https://xanscope.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/xanscope">📂 Repo</a>
     </td>
