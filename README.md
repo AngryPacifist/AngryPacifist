@@ -136,7 +136,7 @@ I play basketball, I game, and I have a weakness for cats. Not necessarily in th
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=They+said+nobody+could+do+it.+So+Nobody+did.&author=Outis" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=They+said+nobody+could+do+it.+So+Nobody+did.&author=Outis" alt="Quote" />
 </p>
 
 ---
