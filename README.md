@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header-banner.svg" alt="OUTIS — @AngryPacifist" width="80%" />
+  <img src="header-banner.svg" alt="OUTIS — @AngryPacifist" width="100%" />
 </p>
 
 <p align="center">
