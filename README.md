@@ -161,15 +161,15 @@ I play basketball, I game, and I have a weakness for cats.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AngryPacifist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=AngryPacifist&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats-three-bay-66.vercel.app/api?username=AngryPacifist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats-gamma-three.vercel.app?user=AngryPacifist&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" height="180" />
 </p>
 
 ---
 
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngryPacifist&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9)](https://github.com/AngryPacifist)
+[![Activity Graph](https://github-readme-activity-graph-pearl-phi.vercel.app/graph?username=AngryPacifist&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9)](https://github.com/AngryPacifist)
 
 ---
 
