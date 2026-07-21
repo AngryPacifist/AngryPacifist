@@ -10,11 +10,11 @@
 
 ### About
 
-They call me the **machine** — I try things, relentlessly. If it exists, I'll learn it. If it doesn't, I'll build it.
+They call me the **machine**. I try things relentlessly, and whatever the work needs I pick up or build.
 
-Right now I'm tinkering with AI agents, shipping Solana tooling, and building [Hot Take](https://hottake.markets) — my prediction market startup. Before that I was writing for protocols, leading communities, and figuring out which rabbit hole to fall into next.
+Right now I'm tinkering with AI agents, shipping Solana tooling, and building [Hot Take](https://hottake.markets), my prediction market startup. Before that I wrote for protocols and led communities.
 
-I play basketball, I game, and I have a weakness for cats. Not necessarily in that order.
+I play basketball, I game, and I have a weakness for cats.
 
 <p align="center">
   <a href="https://x.com/angry__pacifist"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
