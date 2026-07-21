@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=Founder;Community+Builder;Content+Strategist;Solana+Builder" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=Founder;Community+Builder;Content+Strategist;Solana+Builder" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,51 +33,99 @@ I play basketball, I game, and I have a weakness for cats. Not necessarily in th
     <td width="50%">
       <h3>⭐ Hot Take</h3>
       <p><strong>Prediction markets on Solana</strong></p>
-      <p>My product. Currently in active development — a TikTok-style prediction market platform with social capture, automated settlement, and embedded wallets.</p>
+      <p>My product. A TikTok-style feed of real-world markets: scroll, take a stance with Stamp It or Fade It, and trade with real USDC. Shipped to Solana mainnet as a solo founder; relaunching now on our own settlement program.</p>
       <p>
-        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <a href="https://hottake.markets">🌐 hottake.markets</a> · <a href="https://x.com/hottake_app">𝕏 @hottake_app</a>
     </td>
     <td width="50%">
-      <h3>Solana Security Patterns</h3>
-      <p><strong>10 Sealevel attack patterns — Anchor vs Pinocchio</strong></p>
-      <p>An interactive educational reference comparing security patterns across two Solana frameworks. 43+ exploit simulations, 100% logical verification.</p>
+      <h3>Onside</h3>
+      <p><strong>Live World Cup prediction game</strong></p>
+      <p>A continuous feed of "what happens next" micro-calls generated from the live match state and settled by the data feed minutes later, with every eligible result provable against on-chain Merkle roots. Built solo for the TxODDS World Cup Hackathon.</p>
       <p>
-        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anchor-7C3AED?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
       </p>
-      <a href="https://solana-security-patterns.pxxl.click">🌐 Live Guide</a> · <a href="https://github.com/AngryPacifist/solana-security-patterns">📂 Repo</a>
+      <a href="https://onside.today">🌐 onside.today</a> · <a href="https://github.com/AngryPacifist/Onside">📂 Repo</a>
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3>Candor</h3>
+      <p><strong>The trading agent that cannot lie about its record</strong></p>
+      <p>An autonomous sports trading agent that commits every position to Solana mainnet before the outcome exists, then proves each settlement on-chain against anchored match data. Built for the TxODDS World Cup Hackathon.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+      </p>
+      <a href="https://candor.website">🌐 candor.website</a> · <a href="https://github.com/AngryPacifist/Candor">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>The Gauntlet</h3>
+      <p><strong>Elimination trading competition engine for Adrena</strong></p>
+      <p>Bracket-style tournaments on the Adrena perps protocol: traders register a wallet, trade through timed rounds, and are scored on a composite performance index from live position data until a final group remains.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <a href="https://github.com/AngryPacifist/the-gauntlet">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Solana Security Patterns</h3>
+      <p><strong>10 Sealevel attack patterns: Anchor vs Pinocchio</strong></p>
+      <p>An interactive educational reference comparing security patterns across two Solana frameworks. 43+ exploit simulations, 100% logical verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Anchor-7C3AED?style=flat-square&logoColor=white" alt="Anchor" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      </p>
+      <a href="https://solana-security-patterns.vercel.app">🌐 Live Guide</a> · <a href="https://github.com/AngryPacifist/solana-security-patterns">📂 Repo</a>
+    </td>
     <td width="50%">
       <h3>Solvent</h3>
       <p><strong>Automated rent-reclaim bot for Solana operators</strong></p>
       <p>A comprehensive monitoring suite with CLI, Dashboard, and Telegram bot interfaces for reclaiming rent from closeable accounts.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       </p>
       <a href="https://solvent-kora.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/solvent">📂 Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Xanscope</h3>
       <p><strong>Analytics platform for Xandeum pNodes</strong></p>
-      <p>A premium dashboard for monitoring and managing Xandeum storage provider nodes — real-time network health, interactive 3D globe, leaderboard, and operator tools.</p>
+      <p>A premium dashboard for monitoring and managing Xandeum storage provider nodes: real-time network health, interactive 3D globe, leaderboard, and operator tools.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
       </p>
       <a href="https://xanscope.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/xanscope">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>Ø Zero</h3>
+      <p><strong>Passkey wallet showcase on Lazorkit</strong></p>
+      <p>A React Native wallet with biometric passkey login and gasless transactions through the Kora paymaster: send and receive, Solana Pay QR scanning, Jupiter swaps, and Metaplex Core minting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+      </p>
+      <a href="https://github.com/AngryPacifist/zero-app">📂 Repo</a>
     </td>
   </tr>
 </table>
@@ -130,7 +176,10 @@ I play basketball, I game, and I have a weakness for cats. Not necessarily in th
 ### Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AngryPacifist/AngryPacifist/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngryPacifist/AngryPacifist/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/AngryPacifist/AngryPacifist/output/github-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
@@ -144,4 +193,3 @@ I play basketball, I game, and I have a weakness for cats. Not necessarily in th
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AngryPacifist&style=for-the-badge&color=7C3AED" alt="Profile Views" />
 </p>
-<!-- streak: 2026-04-07 -->
