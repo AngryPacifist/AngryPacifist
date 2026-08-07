@@ -12,7 +12,7 @@
 
 They call me the **machine**. I try things relentlessly, and whatever the work needs I pick up or build.
 
-Right now I'm tinkering with AI agents, shipping Solana tooling, and building [Hot Take](https://hottake.markets), my prediction market startup. Before that I wrote for protocols and led communities.
+Right now I'm tinkering with AI agents, contributing upstream to [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw), shipping Solana tooling, and building [Hot Take](https://hottake.markets), my prediction market startup. Before that I wrote for protocols and led communities.
 
 I play basketball, I game, and I have a weakness for cats.
 
@@ -43,6 +43,41 @@ I play basketball, I game, and I have a weakness for cats.
       <a href="https://hottake.markets">🌐 hottake.markets</a> · <a href="https://x.com/hottake_app">𝕏 @hottake_app</a>
     </td>
     <td width="50%">
+      <h3>The Gauntlet</h3>
+      <p><strong>Elimination trading competition engine for Adrena</strong></p>
+      <p>Bracket-style tournaments on the Adrena perps protocol: traders register a wallet, trade through timed rounds, and are scored on a composite performance index from live position data until a final group remains.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <a href="https://github.com/AngryPacifist/the-gauntlet">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>zeroclaw-x402</h3>
+      <p><strong>Verified x402 payments on Solana for ZeroClaw agents</strong></p>
+      <p>An agent that can spend money is a prompt-injection surface. Every settlement is decoded and checked byte-for-byte against the server's own demand before anything is signed, under a spend policy the model cannot talk its way past. Settled real payments on Solana mainnet.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+      </p>
+      <a href="https://github.com/AngryPacifist/zeroclaw-x402">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>ZeroClaw (upstream)</h3>
+      <p><strong>Contributor to the 32k-star Rust agent runtime</strong></p>
+      <p>Three merged PRs in the security and test paths of ZeroClaw, including a fail-closed fix to the Verifiable Intent constraint checker that shipped in v0.8.4. 14 artifacts filed upstream: 4 PRs and 10 issues.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      </p>
+      <a href="https://github.com/zeroclaw-labs/zeroclaw">📂 Upstream</a> · <a href="https://github.com/zeroclaw-labs/zeroclaw/pulls?q=is%3Apr+author%3AAngryPacifist">📂 The PRs</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>Onside</h3>
       <p><strong>Live World Cup prediction game</strong></p>
       <p>A continuous feed of "what happens next" micro-calls generated from the live match state and settled by the data feed minutes later, with every eligible result provable against on-chain Merkle roots. Built solo for the TxODDS World Cup Hackathon.</p>
@@ -53,8 +88,6 @@ I play basketball, I game, and I have a weakness for cats.
       </p>
       <a href="https://onside.today">🌐 onside.today</a> · <a href="https://github.com/AngryPacifist/Onside">📂 Repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Candor</h3>
       <p><strong>The trading agent that cannot lie about its record</strong></p>
@@ -65,17 +98,6 @@ I play basketball, I game, and I have a weakness for cats.
         <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
       </p>
       <a href="https://candor.website">🌐 candor.website</a> · <a href="https://github.com/AngryPacifist/Candor">📂 Repo</a>
-    </td>
-    <td width="50%">
-      <h3>The Gauntlet</h3>
-      <p><strong>Elimination trading competition engine for Adrena</strong></p>
-      <p>Bracket-style tournaments on the Adrena perps protocol: traders register a wallet, trade through timed rounds, and are scored on a composite performance index from live position data until a final group remains.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <a href="https://github.com/AngryPacifist/the-gauntlet">📂 Repo</a>
     </td>
   </tr>
   <tr>
