@@ -69,7 +69,7 @@ I play basketball, I game, and I have a weakness for cats.
     <td width="50%">
       <h3>ZeroClaw (upstream)</h3>
       <p><strong>Contributor to the 32k-star Rust agent runtime</strong></p>
-      <p>Four merged PRs in the security, test, and cron paths of ZeroClaw, including a fail-closed fix to the Verifiable Intent constraint checker that shipped in v0.8.4. 14 artifacts filed upstream: 4 PRs and 10 issues.</p>
+      <p>Five merged PRs in the security, test, cron, and gateway paths of ZeroClaw, including a fail-closed fix to the Verifiable Intent constraint checker that shipped in v0.8.4. 18 artifacts filed upstream: 8 PRs and 10 issues.</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       </p>
