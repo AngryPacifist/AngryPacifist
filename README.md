@@ -86,7 +86,7 @@ I play basketball, I game, and I have a weakness for cats.
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
       </p>
-      <a href="https://onside.today">🌐 onside.today</a> · <a href="https://github.com/AngryPacifist/Onside">📂 Repo</a>
+      <a href="https://github.com/AngryPacifist/Onside">📂 Repo</a>
     </td>
     <td width="50%">
       <h3>Candor</h3>
@@ -97,7 +97,7 @@ I play basketball, I game, and I have a weakness for cats.
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
       </p>
-      <a href="https://candor.website">🌐 candor.website</a> · <a href="https://github.com/AngryPacifist/Candor">📂 Repo</a>
+      <a href="https://github.com/AngryPacifist/Candor">📂 Repo</a>
     </td>
   </tr>
   <tr>
