@@ -122,7 +122,7 @@ I play basketball, I game, and I have a weakness for cats.
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       </p>
-      <a href="https://solvent-kora.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/solvent">📂 Repo</a>
+      <a href="https://solvent.outis.id">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/solvent">📂 Repo</a>
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ I play basketball, I game, and I have a weakness for cats.
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
       </p>
-      <a href="https://xanscope.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/xanscope">📂 Repo</a>
+      <a href="https://xanscope.outis.id">🌐 Live Demo</a> · <a href="https://github.com/AngryPacifist/xanscope">📂 Repo</a>
     </td>
     <td width="50%">
       <h3>Ø Zero</h3>
